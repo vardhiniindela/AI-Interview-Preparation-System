@@ -1,0 +1,10 @@
+Sample Answers:
+
+Q1: What is Python?
+Python is a high-level programming language used for data analysis and web development.
+
+Q2: What is SQL?
+SQL is used to manage and query relational databases.
+
+Q3: What is OOP?
+OOP is a programming paradigm based on objects and classes.
