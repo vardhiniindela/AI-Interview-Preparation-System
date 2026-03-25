@@ -86,7 +86,7 @@ python -m streamlit run app.py
 - Final report will be generated
 
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 Vardhini Indela
 
 
